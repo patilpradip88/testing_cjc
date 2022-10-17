@@ -13,7 +13,7 @@ public class A {
 	
 	public void m2()
 	{
-		System.out.println("Hello");
+		System.out.println("Welcome");
 	}	
 		
 }
